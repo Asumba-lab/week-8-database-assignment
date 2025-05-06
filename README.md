@@ -38,13 +38,12 @@ Sample data for demonstration
 
 2.Or import directly in MySQL Workbench
 
-## Database Schema Diagrams
+## Database Schema Diagrams (in the Doc)
 
 ### Library Management System
-![Library Management ERD](docs/images/library_erd.png)
 
 ### Task Manager System
-![Task Manager ERD](docs/images/task_manager_erd.png)
+
 
 
   ##Part 2: Task Manager API
