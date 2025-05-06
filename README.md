@@ -1,5 +1,5 @@
-##Library Management System & Task Manager API
- ##Week 8 Assignment: Database Systems + CRUD API Implementation
+## Library Management System & Task Manager API
+ ## Week 8 Assignment: Database Systems + CRUD API Implementation
 
 This repository contains two complete projects:
 
@@ -7,7 +7,7 @@ This repository contains two complete projects:
 
 2.A Task Manager CRUD API built with Python FastAPI and MySQL
 
- ##Part 1: Library Management Database
+ ## Part 1: Library Management Database
 
  ##Database Schema Overview
 
@@ -40,15 +40,15 @@ Sample data for demonstration
 
 ## Database Schema Diagrams (in the Doc)
 
-### Library Management System
+Library Management System
 
-### Task Manager System
+Task Manager System
 
 
 
-  ##Part 2: Task Manager API
+  ## Part 2: Task Manager API
 
- ###Features
+ ### Features
 
 User authentication system
 
@@ -60,7 +60,7 @@ MySQL database backend
 
 Secure password hashing
 
-  ###Technologies Used
+  ### Technologies Used
 Python 3.9+
 
 FastAPI
@@ -71,7 +71,7 @@ Passlib (for password hashing)
 
 MySQL Connector/Python
 
-  ###Installation
+  ### Installation
 
 1.Clone the repository:
 
@@ -107,7 +107,7 @@ week 8 database assignment/
 
 ## Assignment Requirements Checklist
 
-###For Question 1 (Database):
+### For Question 1 (Database):
 
 Real-world use case (Library Management)
 
@@ -121,7 +121,7 @@ Single SQL file with CREATE TABLE statements
 
 Sample data included
 
-###For Question 2 (CRUD API):
+### For Question 2 (CRUD API):
 
 Use case (Task Manager)
 
